@@ -1,0 +1,3 @@
+[submodule "shopping-cart"]
+	path = shopping-cart
+	url = git@github.com:muuuy/shopping-cart.git
